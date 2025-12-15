@@ -1,0 +1,24 @@
+1º Cria um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, do zero até o vinte.
+    O programa deve ler um número de 0 a 20 e mostrá-lo por extenso.
+
+2º Cria um programa com tupla preenchida com os 10 primeiros colocados da Tabela do Campeonato Angolano de Futebol, na ordem da colocação.
+    Mostra:
+        a) As 5 primeiras equipas.
+        b) As últimas 4 equipas.
+        c) Uma lista com todas as equipas em ordem alfabética.
+        d) Em qual posição está a equipa do Luanda City.
+
+3º Cria um programa vai gerar cinco números aleatóris e colocar em um tupla.
+    Depois disso, mostra a listagem de números gerados e também indica o menor e o maior valor que estão na tupla.
+
+4º Faz um programa que leia quatro valores e guarda-os em tupla.
+    No final, mostra:
+    a) Quantas vezes apareceu o valor 9.
+    b) Em que posição foi digitado o primeiro valor 3.
+    c) Quais foram os números pares.
+
+5º Cria um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência.
+    No fim, mostra uma listagem de preços, organizando os dados em forma tabular.
+
+6º Cria um programa que tenha uma tupla com várias palavras sem acentos.
+    Depois disso, deves mostrar, para cada palavra, quais são as suas vogais.

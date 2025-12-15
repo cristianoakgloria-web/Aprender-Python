@@ -1,0 +1,30 @@
+1º Faz um programa que leia o sexo de uma pessoa. Mas só anceita os valores 'M' ou 'F'.
+Caso esteja errado, peça que digite novamente.
+
+2º Molhore o jogo onde o compuutador vai pensar em um número de 0 a 10.
+Mas  jogador vai tentar até adivinhasr, no fim mostra quantas vezes ele tentou.
+
+3º Cria um programa que lê dois números e mostra um menu na tela:
+[1]somar
+[2]multiplicar
+[3]maior
+[4]novos números
+[5]sair do programa
+O programa deve realizar a operação solicitada em cada caso.
+
+4º Faz um programa que leia um número qualquer e mostra o seu fatorial.
+
+5º Refaz o desafio. leia o primeiro termo e a razã d uma PA, mostra os 10 primeiros termos da progressão.
+
+6º Melhore o Desafio anterior, pergunta se o usuário quer mostrar mais alguns termos.
+O programa encerra quando ele escreve 0.
+
+7º Escreve um programa que leia um número inteiro n e mostra na tela os primeiros n de um Sequência Fibonacci.
+
+8º Cria um programa que lê vários números inteiros.
+O programa só para se o número digitado for 999.
+Mostre a soma de todos os números e quantos foram digitados (não considere o flag).
+
+9º Faz um programa que lê vários números inteiros.
+Mostre a média, o maior e menor.
+Pergunta se ele quer continuar ou não a digitar valores.

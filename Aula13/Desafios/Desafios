@@ -1,0 +1,22 @@
+1º Faz um programa que lê 5 valores númericos e guarde-os em uma lista.
+    No fim, mostra qual foi o maior e o menor valor digitados e as suas posições.
+
+2º Faz um programa onde o usuário possa digitar vários valores númericos adicione-os em uma lista.
+    Caso o número já exista, não será adicionado.
+    No fim mostra os números em ordem crescente.
+
+3º Cria um programa onde o usuário possa digitar vários valores númericos e adicione-os em uma lista, sem usar sort().
+    No fim mostra a lista ordenada.
+
+4º Cria um programa que lê varios valores númericos e adicione-os numa lista.
+    Mostra:
+        a) Quantos números foram digitados
+        b) A lista de valores de forma decrescente
+        c) Se o valor 5 está na lista
+
+5º Cria um programa que lê vários números e coloque-os numa lista.
+    Cria duas listas externas que contêm os valores pares e ímpares.
+    No fim mostra as três listas.
+
+6º Cria um programa onde o usuário digita um expressão qualquer que use parênteses.
+    Analisa se a expressão em parênteses abertos e fechados na ordem correta.

@@ -1,0 +1,7 @@
+1º Crie um script Python que leia o nome de um pessoa e mostre uma mensagem de boas-vindas de acordo com o valor digitado.✅️
+
+2º Crie um script Python que leia o dia, o mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada.✅️
+
+3º Crie um script Python que leia dois números e tenta mostrar a soma entre eles.❌️
+
+Boa sorte!☺️

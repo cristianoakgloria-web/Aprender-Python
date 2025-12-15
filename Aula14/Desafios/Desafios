@@ -1,0 +1,22 @@
+1º Faz um programa que leia nome e peso de várias pessoas e guarde esses dados numa lista.
+    Mostra:
+        a) Quantas pessoas foram cadastradas.
+        b) Uma listagem com as pessoas mais pessoas.
+        c) Uma listagem com as mais leves.
+
+2º Cria um programa onde o usuário possa digitar sete valores números e cadastre-os em uma lista e separe os pares dos ímpares.
+    No fim mostra os valores pares e ímpares em ordem crescente.
+
+3º Cria um programa que cria uma matriz de dimensão 3x3 e preencha com valores lidos do teclado.
+    No fim mostra a matriz, com a formatação correta.
+
+4º Aprimore o desafio aterior e mostra no final:
+    a) A soma de todos os valores digitados.
+    b) A soma dos valores da terceira coluna.
+    c) O maior valor da segunda linha.
+
+5º Faz um programa que ajuda um jogador do Sorteio a criar palpites.
+    O programa vai perguntar quantos jogos serão gerados e sortear 5 números entre 1 e 100 para cada jogo, cadastre tudo numa lista composta.
+
+6º Cria um programa que leia nome e duas notas de vários alunos e guarde tudo numa lista composta.
+    No fim, mostra um boletim com a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.

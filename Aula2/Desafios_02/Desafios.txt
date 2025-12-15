@@ -1,0 +1,5 @@
+1º Crie um programa que leia dois números e mostre a soma entre eles.
+
+2º Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possiveis sobre ele.
+
+Boa sorte!☺️

@@ -1,0 +1,2 @@
+numeros = [int(input('Escreve um número> ')), int(input('Escreve um número> ')), int(input('Escreve um número> ')), int(input('Escreve um número> ')), int(input('Escreve um número> '))]
+print('O maior número da lista é {} e está na posição {}\nO menor número da lista é {} e está na posição {}'.format(max(numeros), numeros.index(max(numeros)) + 1, min(numeros), numeros.index(min(numeros)) + 1))

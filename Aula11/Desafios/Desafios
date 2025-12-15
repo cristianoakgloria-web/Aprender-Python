@@ -1,0 +1,29 @@
+1º Cria um programa que leia vários números inteiros.
+    O progrma só deve parar quando for digitado o número 999.
+    No fim mostra quantos números foram digitados e qual a soma entres.
+    Desconcidere o flag.
+
+2º Faz um programa que mostra a tabuada de vários números, digitado pelo usuário.
+    O programa encerra quando o número digitado for negativo.
+
+3º Faz o jogo Par ou Ímpar com o computador.
+    O termina quando o jogador perde.
+    Mostra o total de vitórias no fim do jogo.
+
+4º ... Leia a idade e o sexo de vária gente.
+    Pepois de cada pessoa pergunta se quer continuar ou não.
+    No fim mostra:
+        A) Quantidade de pessoas com mais de 18 anos.
+        B) Quantidade total de homens.
+        C) Quantidade total de mulheres com menos de 20 anos.
+
+5º ... Leia o nome e o preços vários produtos.
+    Pergunta depois de cada produto se deve continuar.
+    No fim mostra:
+        A) O total gasto.
+        B) Quantidade de produtos com o preço superior que AOA$100.000,00.
+        C) O nome do produto mais barato.
+
+6º ... Simular um multi-caixa.
+    Pergunta a quantidade a ser levantada (número inteiro) e mostra quantas cédulas (notas) serão entregues.
+        OBS: O Caixa tem apenas cédulas de AOA$5000, AOA$2000, AOA$500, AOA$200.

@@ -1,0 +1,50 @@
+1º Escreve um programa para aprovar o empréstimo bancário para comprar uma casa.
+O programa vai perguntar o valor da casa, o sálario do comprador e em quantos anos ele vai pagar.
+Calcula o valor da prestação mensal que não deve exceder 30% do salário ou o emprestimo será negado.
+
+2º Escreve um programa que lê um número inteiro, peça para o usuário escolher qual será a base de conversão:
+1 para binário.
+2 para octal.
+3 para hexadecimal.
+
+3º Escreve um programa que lê dois números inteiros e compare-os, mostra na tela uma mensagem:
+O primeiro valor é maior.
+O segundo é maior.
+Não existe um valor maior, os dois são iguais.
+
+4º Faz um programa que lê o ano de nascimento de um jovem e informa, de acordo com a idade:
+Se ele ainda vai se alistar ao serviço militar, se é a hora de se alistar, se já passou do tempo para se alistar.
+O programa deverá, também, mostrar o tempo que falta ou passou do prazo.
+
+5º Cria um programa que lê duas notas de um aluno e calcula a média, mostra uma mensagem no final de acordo com a média:
+Média abaixo de 5: Reprovado.
+Média entre 5 e 6.9: Recuperação.
+Média 7 ou superior: Aprovado.
+
+6º A Associação Nacional de Natação precisa de um programa que lê o ano de nascimento de um atleta  mostra a categoria, de acordo com a idade.
+Até 9 anos: Miúdo/a
+Até 14 anos: Infantil
+Até 19 anos: Junior
+Até 20 anos: Sênior
+Acima: Master
+
+7º Refaça o desafio dos triângulos, acrescent o recurso que mostra o tipo de triângulo será formado:
+Equilátero: todos os lados iguais.
+Isósceles: dois lados iguais.
+Escaleno: todos os lados diferentes.
+
+8º Desenvolve uma lógica que lê o peso e a altura de uma pessoa, calcula o seu IMC e mostra os status, de acordo com a tabela:
+Abaixo de:
+18.5: Abaixo do Peso.
+Entre:
+18.5 e 25: Peso ideal.
+25 e 30: Sobrepeso.
+30 e 40: Obesidade mórbida.
+
+9º Elabora um programa que calcula o valor a ser pago por um produto, considera o preço normal e condição de pagamento.
+À vista dinheiro/cheque: 10% de desconto.
+À vista no cartão: 5% de desconto.
+Até 2x no cartão: preço normal.
+3x ou mais no cartão: 20% de juros.
+
+10º Cria um programa que faz o computador jogar pedra papel tesoura contigo.

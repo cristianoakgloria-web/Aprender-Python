@@ -1,0 +1,26 @@
+1º Cria um programa que lê o nome completo de alguém e mostre:
+    O nome com todas as letras maiúsculas
+    O nome com todas as letras minúsculas
+    Quantas letras ao todos sem os espaços
+    Quantas letras tem o primeiro nome
+
+2º Faz um programa que lê um número de 0 à 9999 e mostra na tela cada um dos dígitos separados.
+Ex: 1834
+    unidade: 4
+    dezena: 3
+    centena: 8
+    milhar: 1
+
+3º Cria um programa que lê o nome de uma cidade e diz se ela começa com 'H'.
+
+4º Cria um programa que lê o nome de uma pessoa e diz se ela tem "Silva" no nome.
+
+5º Faz um programa que lê uma frase e mostra:
+    Quantas vezes aparece a letra 'A'.
+    Em que posição ela aparece pala primeira vez.
+    Em que posição ela aparece a última vez.
+
+6º Faz um programa que lê o nome completo de alguém, mostra o primeiro nome e o último separadamente.
+Ex: Ana Anny Lírio Costa
+    primeiro: Ana
+    último: Costa

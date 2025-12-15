@@ -1,0 +1,2 @@
+salario = float(input('Escreve o sálario do funcionário actual> '))
+print('O sálario actual do funcionário com 10% de aumento: AOA${:.2f}'.format((salario * 0.1) + salario) if salario > 125000.00 else 'O sálario actual do funcionário com 15% de aumento: AOA${:.2f}'.format((salario * 0.15) + salario))

@@ -1,0 +1,19 @@
+1º Faça um progma que lê um número inteiro e mostre na tela o seu sucessor e o seu antecessor.
+
+2º Crie um algoritmo que lê um número e mostre o dobro, triplo e raiz quadrada.
+
+3º Desenvolve um programa que lê as duas notas de um aluno, calcule e mostre a média.
+
+4º Escreve um programa que lê um valor em metros e converte-o em centímetros e milímetros.
+
+5º Faz um programa que lê qualquer número inteiro e mostre a sua tabuada de 1 à 10.
+
+6º Cria um programa que lê a quantidade de dinheiro que uma pessoa tem e mostra quantos dólares ela pode comprar.
+Considera: USD$ 1,00 = AOA$ 916,00.
+
+7º Faz um programa que lê a largura e altura de uma parede em metros, calcula a área e a quantidade de tinta necessária para pintá-la.
+Considera: 1l pinta uma área de 2m².
+
+8º Faz um algoritmo que lê um preço e mostre-o com um descoto de 5%.
+
+9º Faz um algoritmo que lê o salário de um funcionário e mostre-o com um aumento de 15%.

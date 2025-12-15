@@ -1,0 +1,24 @@
+1º Faça um programa que mostra na tela um contagem regressiva para o início dos fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
+
+2º Cria um programa que mostra na tela todos os números pares que estão no intervalo de 1 a 50.
+
+3º Faz um programa que calcula a soma entre todos os números ímpares que são múltiplos de três no intervalo de 1 a 500.
+
+4º Refaz o Desafio 9, mostra a tabuada de um número que o usuário escolher.
+
+5º Desenvolve um programa que leia seis números inteiros e mostra a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
+
+6º Desenvolve um programa leia o primeiro termo e a razão de uma PA. No final, mostra os 10 primeiros termos dessa progressão.
+
+7º Faz um programa que leia um número inteiro e diga se ele é ou não um número primo.
+
+8º Cria um programa que leia um frase qualquer e diga se ela é um palíndromo, desconsidere os espaços.
+
+9º Cria um programa que leia ano de nascimento de sete pessoas. No final mostra quantas pessoas atingiram a maioridade e quantas já são maiores.
+
+10º Faz um programa que leia o peso de cinco pessoas. No final, mostra qual foi o maior e o menor peso lidos.
+
+11º Desenvolve um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostra:
+a) A média de idade do grupo.
+b) Qual é o nome do homem mais velho.
+c) Quantas mulhures têm menos de 20 anos.

@@ -1,0 +1,21 @@
+1º Escreve um programa que faz o computador "pensar" em um número inteiro entre o e 5, pede para o usuário tentar descobrir qual foi o número escolhido pelo computador.
+O programa deve escrever na tela se o usuário venceu ou perdeu.
+
+2º Escreve um programa que lê a velocidade de um carro.
+Se ele ultrapassar 80Km/h, mostra uma mensagem que diz que ele foi multado.
+O valor da multa é de AOA$700,00 por cada Km acima do limte.
+
+3º Cria um programa que lê um número inteiro e mostra na tela de ele é "Par" ou "Ímapar".
+
+4º Desenvolve um programa que pergunte a distância de uma viagem em Km.
+Calcula o preço do bilhete, para viagens de 200Km cada Km custa AOA$50  e AOA$45 para viagens mais longas.
+
+5º Faz um programa que lê um ano qualquer e mostra se ele é bissexto.
+
+6º Faz um programa que lê três números e mostra qual é o maior e qual é o menor.
+
+7º Escreve um programa que pergunta o salário de um trabalhador e calcula o seu aumento.
+Para salários superiores a AOA$125.000,00, calcula um aumento de 10%.
+Para salários inguais ou inferiores, o aumeto é d 15%.
+
+8º Desenvolve um progrma que lê o comprimento de três retas e diga ao usuário de elas podem ou não formar um triângulo.
