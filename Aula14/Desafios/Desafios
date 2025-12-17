@@ -4,10 +4,10 @@
         b) Uma listagem com as pessoas mais pessoas.
         c) Uma listagem com as mais leves.
 
-2º Cria um programa onde o usuário possa digitar sete valores números e cadastre-os em uma lista e separe os pares dos ímpares.
+2º Cria um programa onde o usuário possa digitar sete  números e cadastre-os em uma lista e separe os pares dos ímpares.
     No fim mostra os valores pares e ímpares em ordem crescente.
 
-3º Cria um programa que cria uma matriz de dimensão 3x3 e preencha com valores lidos do teclado.
+3º Cria um programa que cria uma matriz de dimensão 3x3 e preencha com números lidos do teclado.
     No fim mostra a matriz, com a formatação correta.
 
 4º Aprimore o desafio aterior e mostra no final:
