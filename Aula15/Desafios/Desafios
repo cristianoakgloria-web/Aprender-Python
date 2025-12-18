@@ -1,0 +1,25 @@
+1º Faz um programa que leia nome e média de um aluno, guarde os dados em um dicionário.
+    No fim, mostra o conteúdo da estrutura na tela.
+
+2º Cria um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios.
+    Guarda esses resultados em um dicionário.
+    No fim mostra em ordem, siente que o vencedor tirou o maior número no dado.
+
+3º Cria um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-os (com idade) em um dicionário se por acaso a CTPS for diferente de zero,
+    dicionário receberá também o ano de contratação e o sálario.
+    Calcula e acrescente, além da idade, com quantos anos a pessoa vai se aposentar.
+
+4º Cria um programa que gerencia o aproveitamento de um jogador de futebol.
+    O programa vai ler o nome do jogador e quantas partidas ele jogou.
+    Depois vai ler a quantidade de golos feitos em cada partida.
+    No final, tudo isso será guardado em um dicionário, incluindo o total de golos feitos durante o campeonato.
+
+5º Cria um programa que leia nome, sexo e idade de várias pessoas, guarde os dados de cada pessoa em um dicionário e todos os dicionários em uma lista.
+    No fim, mostra:
+        a) Quantas pessoas foram cadastradas.
+        b) A média de idade do grupo.
+        c) Uma lista com todoas as mulheres.
+        d) Uma lista com todas as pessoas com idade acima da média.
+
+6º Aprimore o 4º desafio para que ele funciona com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
+
