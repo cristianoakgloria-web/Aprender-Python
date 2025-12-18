@@ -5,9 +5,8 @@
     Guarda esses resultados em um dicionário.
     No fim mostra em ordem, siente que o vencedor tirou o maior número no dado.
 
-3º Cria um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-os (com idade) em um dicionário se por acaso a CTPS for diferente de zero,
-    dicionário receberá também o ano de contratação e o sálario.
-    Calcula e acrescente, além da idade, com quantos anos a pessoa vai se aposentar.
+3º Cria um programa que leia nome, ano de nascimento, o ano da 1º contratação e cadastre-os (com idade) em um dicionário, dicionário receberá também o ano de contratação e o sálario.
+    Calcula a idade e com quantos anos a pessoa vai se aposentar.
 
 4º Cria um programa que gerencia o aproveitamento de um jogador de futebol.
     O programa vai ler o nome do jogador e quantas partidas ele jogou.
@@ -22,4 +21,3 @@
         d) Uma lista com todas as pessoas com idade acima da média.
 
 6º Aprimore o 4º desafio para que ele funciona com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
-
