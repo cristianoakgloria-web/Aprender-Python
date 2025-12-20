@@ -1,6 +1,6 @@
 1º Faz um programa que tenha uma função chamada Área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostra a área do terreno.
 
-2º Faz um programa que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostra uma mensagem com tamanho adaptável.
+2º Faz um programa que tenha uma função chamada escreve(), que receba um texto qualquer como parâmetro e mostra uma mensagem com tamanho adaptável.
   Ex:
       escreva('Olá Mundo!')
     Saída:
