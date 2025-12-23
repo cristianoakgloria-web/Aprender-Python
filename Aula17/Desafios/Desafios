@@ -1,0 +1,27 @@
+1º Crie um programa que tenha um função chamada vota() que vai receber como parâmetro o ano de nascimento de um pessoa, retorne um valor literal que indique se a pessoa tem o voto negado ─ Negado, Opcional ou Obrigatório nas eleições.
+    Menos de 18 ano: Voto Negado
+    18 anos ou mais: Voto Obrigatório
+    65 ou mais: Voto Voto Opcional
+
+2º Cria um programa que tenha uma função fatorial() que recebe dois parâmetros:
+    O primeiro que indique o número a calcular e o outro chamado show, que será um valor lógico(opcional) indique se será mostrado ou não na tela o processo de cálculo do fatorial.
+
+3º Faz um programa que tenha uma função chamada ficha(), que receba dois parâmetros opcionais:
+        O nome de um jogador e quantos golos ele marcou.
+    O programa deve ser capaz de mostrar a ficha do jogador, mesmo que algum dado não tenha sido fornecido corretamente.
+
+4º Cria um programa que tenha a função leiaInt(), que vai funcionar de forma semelhante à função input() do Python, só que com uma valiação para aceitar apenas um valor numérico.
+    Ex:
+        n = leiaInt('Escreve um número> ')
+
+5º Faz um programa que tenha uma função notas() que pode receber notas de vários alunos, depois, retorna um dicionário com as seguintes informações:
+        ─ Quantidade de notas
+        ─ A maior nota
+        ─ A menor nota
+        ─ A média da turma
+        ─ A situação(opcional)
+    Também adiciona as docstrings da função.
+
+6º Faz um mini sistema que utiliza o interative hel de Python.
+    O usário vai digitar o comando e o manual vai aparecer: Quando o usuário digitar a palavra 'FIM', o programa se encerrar.
+        OBS: Utiliza cores.
