@@ -1,4 +1,4 @@
-1º Crie um programa que tenha um função chamada vota() que vai receber como parâmetro o ano de nascimento de um pessoa, retorne um valor literal que indique se a pessoa tem o voto negado ─ Negado, Opcional ou Obrigatório nas eleições.
+1º Crie um programa que tenha um função chamada votar() que vai receber como parâmetro o ano de nascimento de um pessoa, retorne um valor literal que indique se a pessoa tem o voto negado ─ Negado, Opcional ou Obrigatório nas eleições.
     Menos de 18 ano: Voto Negado
     18 anos ou mais: Voto Obrigatório
     65 ou mais: Voto Voto Opcional
