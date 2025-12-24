@@ -22,6 +22,6 @@
         ─ A situação(opcional)
     Também adiciona as docstrings da função.
 
-6º Faz um mini sistema que utiliza o interative hel de Python.
+6º Faz um mini sistema que utiliza o interative help do Python.
     O usário vai digitar o comando e o manual vai aparecer: Quando o usuário digitar a palavra 'FIM', o programa se encerrar.
         OBS: Utiliza cores.
