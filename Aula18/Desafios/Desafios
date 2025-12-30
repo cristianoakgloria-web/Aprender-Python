@@ -3,7 +3,7 @@
 
 2º Adapte o código do desafio anterior e adiciona uma função chamada moeda() que consiga mostrar os valores como valor monetário formatado.
 
-3º Modifica as finções que foram criadas no primeiro desafio para que elas aceitem um parâmetro a mais, que imforma se o valor retornado por elas vai ser ou não formatado pela função moeda(), criada do segundo desafio.
+3º Modifica as funções que foram criadas no primeiro desafio para que elas aceitem um parâmetro a mais, que imforma se o valor retornado por elas vai ser ou não formatado pela função moeda(), criada do segundo desafio.
 
 4º Adiciona ao módulo moeda.py, uma  função chamada resumo(), que mostra algumas informações geradas pelas funções criadas até agora.
 
