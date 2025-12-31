@@ -1,0 +1,10 @@
+1º Rescreve a função leiaInt() do desafio 104, inclui a possibilidade da digitação de um número de tipo inválido.
+    Cria também a função leiaFloat com a mesma funcionalidade.
+
+2º Cria um código em Python que testa se o site Pudim está acessível pelo computador usado.
+
+3º Cria um pequeno sistema modularizado que permite cadastrar pessoas pelo seu nome e idade em um simples arquivo de texto.
+    O sistema só vai ter três opcções:
+        Cadastrar uma nova pessoa;
+        Listar todas as pessoas cadastradas;
+        Sair.
