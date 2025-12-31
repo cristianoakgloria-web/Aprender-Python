@@ -5,6 +5,6 @@
 
 3º Cria um pequeno sistema modularizado que permite cadastrar pessoas pelo seu nome e idade em um simples arquivo de texto.
     O sistema só vai ter três opcções:
-        Cadastrar uma nova pessoa;
-        Listar todas as pessoas cadastradas;
+        Cadastrar uma nova pessoa.
+        Listar todas as pessoas cadastradas.
         Sair.
